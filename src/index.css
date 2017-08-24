@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.header-logo{
+  display: inline-block;
+  background: url(https://www.proworkflow.com/images/sprite@2x.png) 0 0 no-repeat;
+  background-size: 949px 1200px;
+  width: 200px;
+  height: 35px;
+}
+.secondry{
+  background-color: #f5f5f5;
+}
+.media-container > .media{
+  background-color: #fff;
+  margin-top: 1px;
+  padding: 15px;
+}
+.heading{
+  font-size: 20px;
+  font-weight: 100;
+}
+.heading .glyphicon{
+  top: 2px;
+}
+.media-container > .media > .media-left > a >.media-object{
+  height: 50px;
+}
+.media-container > .media > .media-body > .media-heading{
+  font-size: 14px;
+  font-weight: bold;
+}
+.media-container > .media > .media-body > p{
+  font-size: 12px;
+}
